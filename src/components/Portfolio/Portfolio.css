@@ -1,0 +1,19 @@
+ul{
+    margin-top: 20px;
+    display: flex;
+    list-style: none;
+}
+ul li{
+    margin-left: 20px;
+    background-color: #833ae0;
+    padding: 10px;
+    border-radius: 5px;
+}
+ul li a{
+    color: white;
+    text-decoration: none;
+}
+ul li:hover{
+    background-color: #a84ae9;
+    cursor: pointer;
+}
